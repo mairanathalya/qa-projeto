@@ -1,4 +1,4 @@
-#Language: pt-BR
+#Language: pt
 
 Funcionalidade: Consultar dados populacionais
     Descrição: testagem para consultar dados populacionais

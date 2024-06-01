@@ -1,4 +1,4 @@
-#language: pt-BR
+#language: pt
 
 Funcionalidade: Baixar arquivos
     Descrição: testagem para baixar arquivos no site IBGE

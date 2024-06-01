@@ -1,4 +1,4 @@
-#language: pt-BR
+#language: pt
 
 Funcionalidade: Acessar estatísticas
     Descrição: testagem para verificar estatísticas no site IBGE
