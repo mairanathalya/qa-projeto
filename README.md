@@ -28,6 +28,34 @@ juntamente com as ferramentas :
 ![cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
 ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
+## Como utilizar o projeto 
+
+ Primeiro passo : clonar o repositório utilizando este comando no terminal.
+
+```bash
+$ git clone https://github.com/mairanathalya/qa-projeto.git
+```
+
+ Segundo passo : abra o terminal da pasta e utilize o comando para instalação de todas as dependências do projeto. 
+
+Para este passo é necessário possuir node.js instalado na máquina, caso tenha que verificar se possui o node.js na máquina basta utilizar o comando abaixo que vai mostrar a versão do node.js instalado na máquina :
+ 
+```bash
+node -v 
+```
+
+Após a verificação, utilize o comando abaixo e instale as dependências do projeto.
+
+```bash
+npm install
+```
+
+
+
+
+
+
+
 
 
 
