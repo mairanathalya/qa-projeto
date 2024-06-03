@@ -8,4 +8,5 @@ Contexto:
 
 Cenário: Acessar informações populacionais no site do IBGE
         Quando o usuário clicar na seção "População"
-        Então o usuário será redirecionado para a página de informações populacionais
+        E o usuário for redirecionado para a página de informações populacionais
+        Então o usuário deverá encontrar as informações populacionais 

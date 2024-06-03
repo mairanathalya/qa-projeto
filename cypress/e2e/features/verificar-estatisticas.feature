@@ -7,7 +7,8 @@ Contexto:
         Dado que o usuário está na página inicial do site do IBGE
 
 Cenário: Visualizar estatísticas populacionais
-        Quando o usuário selecionar no menu a opção "Estatísticas"
+        Quando o usuário selecionar o menu 
+        E o usuário selecionar a opção "Estatísticas"
         E o usuário selecionar a opção "Sociais"
         E o usuário selecionar a opção "População"
         Então o usuário será redirecionado para a página de estatísticas populacionais
