@@ -2,7 +2,7 @@
 
 Projeto final da disciplina qualidade de software que consiste em automatizar testes em um site governamental brasileiro para garantir a funcionalidade correta de determinados cenários. 
 
-Disciplina ministrada por : Angelo F. Dias. 
+Disciplina ministrada por: Angelo F. Dias. 
 
 ## Site Selecionado
 
@@ -22,7 +22,7 @@ Visite o site do [IBGE](https://www.ibge.gov.br/).
 ## Linguagem e Ferramentas
 
 Para desenvolver o BDD em automação utilizamos a linguagem [Gherkin](https://blog.onedaytesting.com.br/gherkin/)  
-juntamente com as ferramentas : 
+juntamente com as ferramentas: 
 
 ![cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)&nbsp;
 ![cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
@@ -30,15 +30,15 @@ juntamente com as ferramentas :
 
 ## Como utilizar o projeto 
 
- Primeiro passo : clonar o repositório utilizando este comando no terminal.
+**Primeiro passo:** clonar o repositório utilizando este comando no terminal.
 
 ```bash
 $ git clone https://github.com/mairanathalya/qa-projeto.git
 ```
 
- Segundo passo : abra o terminal da pasta e utilize o comando para instalação de todas as dependências do projeto. 
+ **Segundo passo:** abra o terminal da pasta e utilize o comando para instalação de todas as dependências do projeto. 
 
-Para este passo é necessário possuir node.js instalado na máquina, caso tenha que verificar se possui o node.js na máquina basta utilizar o comando abaixo que vai mostrar a versão do node.js instalado na máquina :
+Para este passo é necessário possuir node.js instalado na máquina, caso tenha que verificar se possui o node.js na máquina basta utilizar o comando abaixo que vai mostrar a versão do node.js instalado na máquina:
  
 ```bash
 node -v 
