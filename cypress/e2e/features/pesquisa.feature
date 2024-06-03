@@ -1,4 +1,4 @@
-#language: pt-BR
+#language: pt
 
 Funcionalidade: Acessar informação
     Descrição: testagem para acessar informações no site IBGE
@@ -8,6 +8,4 @@ Contexto:
 
 Cenário: Acessar informações populacionais no site do IBGE
         Quando o usuário clicar na seção "População"
-        Então  o usuário ser redirecionado para a página de informações populacionais
-
-
+        Então o usuário será redirecionado para a página de informações populacionais
