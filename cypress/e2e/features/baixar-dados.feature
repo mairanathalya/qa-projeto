@@ -8,7 +8,7 @@ Contexto:
 
 Cenário: Baixar dados populacionais
         Quando o usuario clicar na opção "baixar"
-        E o usuário fizer o download com o formato "Verão impressa"
+        E o usuário fizer o download com o formato "Versão impressa"
         Então o usuário deverá receber um arquivo com os dados populacionais    
 
 
