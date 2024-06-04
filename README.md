@@ -59,12 +59,11 @@ npm install
 
 **Tercerio passo:** abra o terminal e utilize o comando para abrir o cypress.
 
-Saiba mais sobre como utilizar o [cypress](https://docs.cypress.io/guides/getting-started/opening-the-app)
-
 ```bash
 npx cypress open
 ```
 
+Saiba mais sobre como utilizar o [cypress](https://docs.cypress.io/guides/getting-started/opening-the-app)
 
 
 
