@@ -11,7 +11,7 @@ When("o usuario clicar na opção {string}", () => {
 })
 
 And("o usuário fizer o download com o formato {string}", () => {
-    cy.get('.downloadContainer > .downloadOpt > #downloadAllPDF').click()
+    cy.get('.downloadContainer > .downloadOpt > .downloadCSV').click()
 })
 
 Then("o usuário deverá receber um arquivo com os dados populacionais", () => {
