@@ -6,8 +6,8 @@ Given("que o usuário está na página inicial do site do IBGE", () => {
     cy.visit('https://www.ibge.gov.br/')
 })
 
-When("o usuário clicar na seção {string}", (populacao) => {
-    cy.get('.popclock-home').contains(populacao).click()
+When("o usuário clicar na seção {string}", () => {
+    cy.get('.popclock-home > .indicador-info > .indicador-title').click()
 })
 
 And("o usuário for redirecionado para a página de informações populacionais", () => {

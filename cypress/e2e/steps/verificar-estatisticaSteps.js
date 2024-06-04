@@ -22,5 +22,5 @@ And("o usuário selecionar a opção {string}", (populacao) => {
 })
 
 Then("o usuário será redirecionado para a página de estatísticas populacionais", () => {
-    
+    cy.get('.conteudo__interna__titulo > h2')
 })

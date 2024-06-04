@@ -6,11 +6,11 @@ Given("que o usuário está na página inicial do site Agência IBGE Notícias",
     cy.visit("https://agenciadenoticias.ibge.gov.br/")
 })
 
-When("o usuário selecionar no menu a opção {string}", (noticias) => {
-    cy.get('.item-6770 > a').contains(noticias).click()
+When("o usuário selecionar no menu a opção {string}", () => {
+    cy.get('.item-6770 > a').click()
 })
 
-And("o usuário selecionar a opção {string}", (estatisticasEconomicas) => {
+And("o usuário selecionar a opção {string}", () => {
     cy.get('.editoria-economicas > a').click()
 })
 
