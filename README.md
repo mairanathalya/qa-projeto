@@ -20,6 +20,10 @@ Visite o site do [IBGE](https://www.ibge.gov.br/).
 - Márcio Alex Mendonça De Freitas
 - Mateus Lemos Sá de Meneses
 
+## Vídeo Explicativo 
+
+
+
 ## Linguagem e Ferramentas
 
 Para desenvolver o BDD em automação utilizamos a linguagem [Gherkin](https://blog.onedaytesting.com.br/gherkin/) 
@@ -52,6 +56,15 @@ Após a verificação, utilize o comando abaixo e instale as dependências do pr
 ```bash
 npm install
 ```
+
+**Tercerio passo:** abra o terminal e utilize o comando para abrir o cypress.
+
+Saiba mais sobre como utilizar o [cypress](https://docs.cypress.io/guides/getting-started/opening-the-app)
+
+```bash
+npx cypress open
+```
+
 
 
 
