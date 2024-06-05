@@ -22,6 +22,9 @@ Visite o site do [IBGE](https://www.ibge.gov.br/).
 
 ## Vídeo Explicativo 
 
+```bash
+https://www.youtube.com/watch?v=mPgFsGj9yXs
+```
 
 
 ## Linguagem e Ferramentas
